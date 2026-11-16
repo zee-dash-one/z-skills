@@ -80,7 +80,8 @@ Para cada capítulo do livro, executar ciclicamente as seguintes etapas:
   3. *O início do capítulo tem sentido com o desenvolvimento do próprio texto dele?*
   4. *O capítulo honra ao menos uma ligação forte ou fraca do Grafo Global (item 3 Macro)?*
 
-## 5. Análise de Page-Turner (Tração Contínua e Cura de Fricção)
+# Ciclo de Review (Nível Total - Engenharia da persistência)
+## 1. Análise de Page-Turner (Tração Contínua e Cura de Fricção)
 - Avaliar criticamente: **O livro está gerando vontade irresistível de continuar lendo?**
 - **Diagnóstico:** Identificar no mínimo os **3 piores pontos** de fluidez do texto (trechos com queda de energia, exposição enfadonha, ritmo burocrático ou perda de curiosidade).
 - **Tratamento:** Aplicar reescrita com o Modelo A/AB - B/BC - C/CD no texto **diretamente anterior** e **diretamente posterior** aos 3 piores pontos identificados, eliminando a quebra de ritmo e reestabelecendo a descida do tobogã.

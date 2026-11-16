@@ -32,6 +32,8 @@ Considere cada trecho como parte de uma progressão maior.
 
 Em vez de simplesmente conectar A e C, desenvolva naturalmente a transição de A para B e de B para C.
 
+E se necessário acrescentar mais pontos como Entre A e B e C conectar fluindo entre A -> AB -> B -> BC -> C
+
 O leitor não deve perceber uma emenda entre partes independentes, mas acompanhar uma evolução contínua do pensamento.
 
 ## Restrições
