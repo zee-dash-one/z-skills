@@ -45,3 +45,6 @@ Este framework trata o texto como uma estrutura de dados a ser processada por fu
 
 ---
 **Regra de Ouro:** A skill não escreve o conteúdo; ela governa a densidade e o fluxo da informação. O conteúdo é o combustível, a skill é o motor de combustão interna.
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/dialectical-vector/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/dialectical-vector/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

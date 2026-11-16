@@ -85,3 +85,6 @@ Auditar o ritmo de leitura para garantir tração contínua:
 
 ---
 **Regra de Ouro:** A escrita não é uma troca de temas, é um deslizamento técnico contínuo. Se o leitor percebeu o corte de assunto, a abstração falhou. A transição deve ser tão suave quanto uma mudança de cor num degradê e tão inevitável quanto a gravidade num tobogã.
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/sliding-narrative/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/sliding-narrative/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

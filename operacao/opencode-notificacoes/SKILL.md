@@ -66,3 +66,6 @@ Quando o Hil perguntar de notificações, consulte o SQLite e, se precisar do qu
 ## Evolução
 
 O desenho separa **registro** (SQLite) de **entrega** (portal + ntfy). Para adicionar outro canal (e-mail, Telegram, Discord), implemente o envio lendo do SQLite em `notify.sh`; portal e API não mudam. O serviço `opencode-notify-api.service` é stdlib-only e só escuta loopback; o nginx faz o proxy.
+---
+
+Cópia versionada desta skill: [z-skills/operacao/opencode-notificacoes/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/operacao/opencode-notificacoes/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

@@ -96,3 +96,6 @@ Para cada capítulo do livro, executar ciclicamente as seguintes etapas:
 - `[[LIGACAO_FORTE]]` / `[[LIGACAO_FRACA]]`: Rastreamento dos nódulos do grafo.
 - `[[SEMEADURA]]` / `[[COLHEITA]]`: Pontos de ancoragem causal do degradê.
 - `[[PAGE_TURNER_AJUSTE]]`: Registro das emendas nos 3 piores pontos revisados.
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/narrative-architect/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/narrative-architect/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

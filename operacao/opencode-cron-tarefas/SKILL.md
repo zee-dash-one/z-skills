@@ -120,3 +120,6 @@ Toda execução do runner chama `~/.config/opencode/cron/notify.sh` (se existir 
 `/opt/zlab/nginx/index.html` é montado como **arquivo único** no container `nginx`. Editar **substituindo o inode** (ex.: `install`, `mv`, editor que recria o arquivo) deixa o container servindo a versão antiga. Prefira editar **no lugar** (truncar/reescrever o mesmo arquivo). Se o inode já mudou, recriar o container resolve — e isso exige autorização do Hil (guardrail de reinício).
 
 Se o feed não aparecer no portal, cheque `nginx -t` e a rota `/api/opencode/notifications`.
+---
+
+Cópia versionada desta skill: [z-skills/operacao/opencode-cron-tarefas/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/operacao/opencode-cron-tarefas/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

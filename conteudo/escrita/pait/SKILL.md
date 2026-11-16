@@ -41,3 +41,6 @@ A transição deve ser uma **conversa**. O ponto C (Pivot) deve ser um objeto ou
 
 ---
 **Protocolo Final:** O êxito é atingido quando o leitor esquece que está lendo um livro técnico e sente que está conversando com alguém que se importa com a segurança da sua família, mas que sabe exatamente como o mundo funciona "por baixo do capô".
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/pait/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/pait/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

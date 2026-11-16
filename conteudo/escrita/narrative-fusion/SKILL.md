@@ -53,3 +53,6 @@ Entregar o texto integralmente reconstruído, como uma composição originalment
 O resultado deve apresentar fluidez, continuidade lógica, transições sutis, riqueza estilística e concisão.
 
 **Princípio fundamental:** não apenas melhorar os trechos individualmente, mas transformar a relação entre eles. As ideias devem fluir, evoluir e se complementar naturalmente, preservando a intenção original e tornando a experiência de leitura mais orgânica e envolvente.
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/narrative-fusion/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/narrative-fusion/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

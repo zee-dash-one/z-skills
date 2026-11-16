@@ -26,3 +26,6 @@ Esta skill fornece a "textura da prosa", transformando relatórios técnicos em 
 
 ---
 **Regra de Ouro:** O texto deve soar como um avô aristocrata e exilado que, enquanto lamenta a perda da beleza do mundo antigo, exige que você limpe a sua arma e organize a sua despensa com a precisão de quem sabe que o inverno está chegando.
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/stylistic-fusion/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/stylistic-fusion/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.
