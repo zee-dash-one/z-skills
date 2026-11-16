@@ -58,3 +58,7 @@ Never invent namespaces; confirm with GetMcpServerStatus if labels change.
 ## Out of scope
 
 Writing final copy, generating images, or producing video — those belong to Writer, Image, and Video.
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/audio/audio-elevenlabs-tts/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/audio/audio-elevenlabs-tts/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

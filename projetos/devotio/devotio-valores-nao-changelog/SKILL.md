@@ -79,3 +79,7 @@ Essa decisão reflete um princípio que orienta nosso trabalho: funcionalidades 
 Seguimos desenvolvendo o Devotio com essa convicção. Cada melhoria precisa contribuir para uma experiência mais significativa de leitura bíblica, reflexão e comunhão cristã.
 
 Para nós, evoluir um produto também significa preservar os princípios que justificam sua existência.
+
+---
+
+Cópia versionada desta skill: [z-skills/projetos/devotio/devotio-valores-nao-changelog/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/projetos/devotio/devotio-valores-nao-changelog/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

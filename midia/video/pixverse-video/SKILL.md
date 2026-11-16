@@ -62,3 +62,7 @@ Only click Create if the task says to generate AND credits are enough. Wait for 
 Never Delete, Dislike, or Post unless asked.
 If a sign-in, captcha, or payment wall appears, stop and report the URL.
 ```
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/video/pixverse-video/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/video/pixverse-video/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

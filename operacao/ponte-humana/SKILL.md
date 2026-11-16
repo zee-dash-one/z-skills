@@ -56,3 +56,7 @@ O Hil costuma pedir assim: "quero fazer X; planeja do jeito Y, da forma Z, para 
 
 ## Refinar
 Esta skill evolui com o Hil. Quando ele ajustar uma regra, reescrevo esta skill e aviso a ele.
+
+---
+
+Cópia versionada desta skill: [z-skills/operacao/ponte-humana/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/operacao/ponte-humana/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

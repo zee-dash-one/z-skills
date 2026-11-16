@@ -34,3 +34,7 @@ Send 3-6 lines: what changed, evidence (CI link, tests), risks, and the PR link.
 - Quick post-merge check of the target branch (CI still green, nothing unexpected merged).
 - Release only from green CI; version and notes from the changelog.
 - Kaizen: any failure found becomes a test or a rule in AGENTS.md.
+
+---
+
+Cópia versionada desta skill: [z-skills/engenharia/pr-flow/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/engenharia/pr-flow/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

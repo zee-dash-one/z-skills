@@ -17,3 +17,7 @@ Goal: the smallest plan that can be verified. A spec precise enough to replace t
 6. Before creating tasks in a repo that already has active `.todo/` files from another assistant, coordinate with it first.
 7. Write code, commands and comments in English unless the repo already uses another language.
 8. Deliver: 3-6 lines in chat with the file paths and which task to run first.
+
+---
+
+Cópia versionada desta skill: [z-skills/engenharia/plan-and-breakdown/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/engenharia/plan-and-breakdown/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

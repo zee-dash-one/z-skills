@@ -63,3 +63,7 @@ Open https://aistudio.google.com/prompts/new_video.
 If sign-in, 2FA, captcha, payment, or “Upgrade to unlock Veo” appears, STOP and report the URL. Prefer Flow Veo 3.1 Fast instead of upgrading.
 If unlocked: upload still if available; set 9:16, 8s, 720p; paste motion prompt; Run only if enabled and task says generate.
 ```
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/video/google-ai-studio-veo/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/video/google-ai-studio-veo/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

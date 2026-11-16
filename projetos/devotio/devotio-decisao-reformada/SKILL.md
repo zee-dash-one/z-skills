@@ -34,3 +34,7 @@ Pense sempre em pares de quem lidera e quem é cuidado, por exemplo:
 ## O que evitar
 - Modelos de rede social aberta: entrada livre sem responsável, busca pública de comunidades, papéis vagos.
 - Inventar posições teológicas. O que for doutrina vai para o Hil decidir.
+
+---
+
+Cópia versionada desta skill: [z-skills/projetos/devotio/devotio-decisao-reformada/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/projetos/devotio/devotio-decisao-reformada/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

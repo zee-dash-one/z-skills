@@ -229,3 +229,7 @@ Do not claim that the article has been published, uploaded, scheduled, or approv
 ## Final rule
 
 This article has already been localized into English. Do not translate it again. Read the whole story as an English-language editor, correct every real error, improve only what genuinely needs improvement, and verify that nothing important changed.
+
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/localizacao/reforco-localizacao-en/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/localizacao/reforco-localizacao-en/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

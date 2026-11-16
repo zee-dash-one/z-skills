@@ -41,3 +41,7 @@ Projeto que ainda não tem a seção `Smoke test` no README não ganha roteiro i
 - Só o Gandalf escreve no README ou no repositório. O PO lê e propõe.
 - Nada de credencial em texto. Login sempre pelo Vault ou pelo Hil digitando.
 - Um relatório por pedido. Sem repetir teste nem monitorar depois.
+
+---
+
+Cópia versionada desta skill: [z-skills/engenharia/smoke-test-entrega/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/engenharia/smoke-test-entrega/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

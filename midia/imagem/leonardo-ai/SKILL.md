@@ -46,3 +46,7 @@ For game sprites, do **not** use Leonardo — use SpriteCook.
 ## Deliver
 
 File under `/workspace/` plus prompt and settings. Offer one revision pass if the user asks.
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/imagem/leonardo-ai/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/imagem/leonardo-ai/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

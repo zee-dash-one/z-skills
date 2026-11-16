@@ -72,3 +72,7 @@ On HTTP 429 / provider error: retry once with backoff, then next step. On SambaN
 ## Delivery
 Polished text only (no publish). Hand off to Áudio / Video / Image. pt-BR unless brief says otherwise. Footer when asked: model id + provider.
 LinkedIn/Instagram post text (and captions) must pass the [humanizar-posts-ptbr](sand-workflow:humanizar-posts-ptbr) step as the final pass before delivery; deliver the humanized text plus the short list of tells removed.
+
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/writer-groq-routing/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/writer-groq-routing/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

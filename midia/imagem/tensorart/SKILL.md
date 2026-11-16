@@ -50,3 +50,7 @@ For game sprites, use SpriteCook instead.
 ## Deliver
 
 File under `/workspace/` plus prompt and settings.
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/imagem/tensorart/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/imagem/tensorart/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

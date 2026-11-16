@@ -54,3 +54,7 @@ Exceções, que o assistente roda direto e bem rápido:
 ## Quem escreve `.todo/`
 
 Desde 2026-10-20, **só o Gandalf** escreve dentro dos projetos: `AGENTS.md`, `.todo/`, `.docs/`, arquivos de configuração e prompts para os agentes. A Malfoyd e os outros bots não escrevem mais nos arquivos; eles repassam ao Gandalf o pedido do usuário, ou seja, o que precisa ser escrito. Nenhum assistente executa o código no PC ou no servidor no lugar do Cursor local, salvo as exceções de leitura/cópia acima. Abrir PR no GitHub só se o usuário pedir.
+
+---
+
+Cópia versionada desta skill: [z-skills/engenharia/instrucoes-para-cursor-local/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/engenharia/instrucoes-para-cursor-local/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

@@ -277,3 +277,7 @@ O passo 2 nunca roda sobre rascunho, versão parcial ou junto com a localizaçã
 Understand the whole story before rewriting any part of it. Understand the surrounding passage before choosing any word. Preserve what happened, why it happened, and what the author meant, not the original wording.
 
 O contexto determina o significado. O significado determina a escolha linguística. A linguagem pode mudar; a história, os fatos e a intenção do autor não.
+
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/localizacao/localizar-ptbr-en/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/localizacao/localizar-ptbr-en/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

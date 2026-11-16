@@ -126,3 +126,7 @@ Não exponha o planejamento interno, a rubrica ou o processo de avaliação, sal
 ## Regra final
 
 Escreva para o leitor compreender a experiência, as decisões e suas consequências. Preserve a voz do autor, a precisão dos acontecimentos e a complexidade necessária. Não sacrifique a verdade pela narrativa, nem a narrativa pelo excesso de informação.
+
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/artigo-longo-narrativo/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/artigo-longo-narrativo/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

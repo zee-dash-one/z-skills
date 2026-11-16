@@ -86,3 +86,7 @@ Projeto alinhado, sem lixo. Ao reorganizar ou concluir algo: substituir arquivos
 5. Toda tarefa termina com: marcar checkbox, registrar o resultado no próprio arquivo da tarefa, atualizar `.docs/` se preciso, mover para `.todo/.done/`, corrigir o link.
 6. Arquivos em UTF-8 sem BOM, com a assinatura do assistente no fim (bloco que a LLM deve ignorar).
 7. Diga ao usuário quais arquivos foram criados e qual tarefa pedir ao Cursor primeiro.
+
+---
+
+Cópia versionada desta skill: [z-skills/engenharia/estrutura-projeto-agentes/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/engenharia/estrutura-projeto-agentes/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

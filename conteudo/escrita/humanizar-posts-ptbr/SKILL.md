@@ -47,3 +47,7 @@ Leia em voz alta. Pergunte: o que ainda soa máquina? Algo foi somado ou perdido
 ## Saída
 1. Texto humanizado final.
 2. Lista curta dos traços removidos (e de qualquer um mantido de propósito, com o motivo).
+
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/humanizar-posts-ptbr/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/humanizar-posts-ptbr/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

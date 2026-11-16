@@ -70,3 +70,7 @@ Stop and report on login / 2FA / payment / insufficient credits. Do not subscrib
 ## Out of scope
 
 Final copy (Writer), stills (Image), TTS narration (Áudio), publishing.
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/video/video-shorts-routing/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/video/video-shorts-routing/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

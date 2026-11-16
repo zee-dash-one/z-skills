@@ -66,3 +66,7 @@ Public style skills surveyed (none installable as Leonardo/TensorArt connectors)
 - No real-person portraits
 - Game sprites → SpriteCook only
 - Video assembly → Video agent; Image may supply stills
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/imagem/image-style-presets/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/imagem/image-style-presets/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

@@ -43,3 +43,7 @@ Quando precisar do arquivo (entrega local, Video, etc.):
 - O prompt usado.
 - Créditos restantes, se aparecerem na tela.
 - Se os créditos acabarem ou o plano gratuito bloquear algo, avisar o usuário em vez de tentar contornar.
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/audio/suno-music-jingle/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/audio/suno-music-jingle/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

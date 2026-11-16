@@ -24,3 +24,7 @@ Output: the prompt in English, structured in Markdown. Keep it short; every line
    - Secrets, personal data and tool-specific internals are not embedded.
 5. If asked to test: write 3-5 test inputs (normal, edge, adversarial) with the expected behavior for each; for an A/B, change one variable at a time.
 6. Deliver: the prompt in a code block plus 1-3 lines on what to watch when it runs. Save long prompts to a file and send the path.
+
+---
+
+Cópia versionada desta skill: [z-skills/conteudo/escrita/prompt-builder/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/conteudo/escrita/prompt-builder/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

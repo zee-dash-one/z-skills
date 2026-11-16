@@ -38,3 +38,7 @@ The file (or SpriteCook / site result link) plus the prompt and settings used.
 ## Out of scope
 
 Audio, final copy, and video assembly (Video agent owns video; may request stills from Image).
+
+---
+
+Cópia versionada desta skill: [z-skills/midia/imagem/image-visual-routing/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/midia/imagem/image-visual-routing/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.
