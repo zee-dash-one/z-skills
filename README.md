@@ -8,6 +8,7 @@ Esta cópia versionada é a referência. Cada skill usada pelos bots aponta para
 
 | Categoria | Skill | Para que serve |
 |---|---|---|
+| `conteudo/escrita` | [abertura-forte](conteudo/escrita/abertura-forte/SKILL.md) | Use ao escrever ou reescrever a abertura (título já dado, 1ª frase, 1º e 2º parágrafos) de artigo longo, ensaio ou post narrativo em pt-B... |
 | `conteudo/escrita` | [artigo-longo-narrativo](conteudo/escrita/artigo-longo-narrativo/SKILL.md) | Use ao escrever, revisar ou reescrever artigos longos para LinkedIn Artigos, Medium e blogs, em português brasileiro ou inglês. Produz em... |
 | `conteudo/escrita` | [humanizar-posts-ptbr](conteudo/escrita/humanizar-posts-ptbr/SKILL.md) | Etapa final obrigatória antes de entregar qualquer texto de post de LinkedIn ou Instagram (inclusive legendas): marcar traços de escrita ... |
 | `conteudo/escrita` | [narrative-architect](conteudo/escrita/narrative-architect/SKILL.md) | Metodologia de engenharia narrativa para orquestração de obras completas (Nível Macro com grafo de nós e arcos de 6-8 partes) e ciclo de produção de capítulos (Nível Micro). |
