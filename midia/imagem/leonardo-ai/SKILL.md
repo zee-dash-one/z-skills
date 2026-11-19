@@ -18,7 +18,8 @@ Pedidos de prompt: skill `leonardo-ai-prompts`. Upscale, fundo, Canvas e custos:
 4. Configure um controle por vez: modelo (o padrao, salvo pedido), proporcao, quantidade 1, prompt. Confira no texto da pagina que ficou certo.
 5. O custo em tokens aparece no botao de gerar: leia antes de clicar. Se estiver acima do combinado, pare e avise.
 6. Gere e espere (de 10 a 60 s). Confira de 5 em 5 s no texto da pagina; sem resultado em 2 min, avise.
-7. Entregue: prompt usado, modelo, proporcao, tokens gastos e saldo (visivel no canto inferior esquerdo da home). Salvar o arquivo so se tiver terminal ou arquivos; senao diga que a imagem esta na biblioteca da conta e passe o endereco da pagina.
+7. Entregue: prompt usado, modelo, proporcao, tokens gastos e saldo (visivel no canto inferior esquerdo da home).
+8. Arquivo: pegue o endereco direto da imagem gerada (lista de imagens da pagina ou link do botao de baixar) e use `cubu_download` (se tiver). Se recusar, clique no botao de baixar da propria pagina e espere ~10 s: o arquivo cai sozinho na pasta `downloads/` do usuario. Confira com `cubu_files list` e cole o `show` na resposta para o chat exibir a imagem. Sem essas ferramentas, diga que a imagem esta na biblioteca da conta e passe o endereco da pagina.
 
 ## Regras
 - A tela mudou ou nao acha o controle: pare e descreva o que ve. Nao invente cliques.
