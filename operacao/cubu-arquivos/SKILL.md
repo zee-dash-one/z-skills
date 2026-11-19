@@ -14,8 +14,8 @@ Pasta própria do usuário. Ações: `list`, `read` (txt, md, csv, json), `write
 
 ## Mostrar no chat
 Cole na resposta o campo `show` que a ferramenta devolve:
-- imagem: `![descrição](cubu-file:imagens/gato.png)` → o chat mostra a imagem, clique amplia e tem botão **Baixar**
-- outro arquivo: `[relatorio.pdf](cubu-file:relatorio.pdf)` → link de baixar
+- imagem: `![descrição](arquivo:imagens/gato.png)` → o chat mostra a imagem, clique amplia e tem botão **Baixar**
+- outro arquivo: `[relatorio.pdf](arquivo:relatorio.pdf)` → link de baixar
 Só funciona com arquivo que existe na pasta (`list` confere). Não escreva caminho do sistema nem URL externa.
 
 ## Editar
