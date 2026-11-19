@@ -1,5 +1,5 @@
 ---
-name: cubu-arquivos
+name: meus-arquivos
 description: "Use para guardar, ler, editar ou mostrar arquivos do usuario (relatorios, textos, imagens baixadas, prints) e para enviar imagem ou arquivo no chat."
 version: 1.0.0
 author: Z Server
@@ -31,4 +31,4 @@ Só funciona com arquivo que existe na pasta (`list` confere). Não escreva cami
 
 ---
 
-Cópia versionada desta skill: [z-skills/operacao/cubu-arquivos/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/operacao/cubu-arquivos/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.
+Cópia versionada desta skill: [z-skills/operacao/meus-arquivos/SKILL.md](https://github.com/zee-dash-one/z-skills/blob/main/operacao/meus-arquivos/SKILL.md). Ao mudar esta skill, atualize também o arquivo no repo.

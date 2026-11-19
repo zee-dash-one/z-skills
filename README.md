@@ -39,7 +39,8 @@ Esta cópia versionada é a referência. Cada skill usada pelos bots aponta para
 | `midia/video` | [video-shorts-routing](midia/video/video-shorts-routing/SKILL.md) | Use when generating YouTube/IG Shorts (9:16) video clips. Only the Video operator generates. Defaults PixVerse image-to-video; Veo 3.1 on... |
 | `operacao` | [opencode-cron-tarefas](operacao/opencode-cron-tarefas/SKILL.md) | Use quando o Hil pedir para criar, agendar, listar, buscar, alterar ou remover tarefas repetitivas (cron) para o agente OpenCode rodar co... |
 | `operacao` | [opencode-notificacoes](operacao/opencode-notificacoes/SKILL.md) | Use quando for preciso avisar o Hil de algo muito importante ou registrar que uma tarefa de cron foi executada. Ensina o sistema central ... |
-| `operacao` | [cubu-arquivos](operacao/cubu-arquivos/SKILL.md) | Use para guardar, ler, editar ou mostrar arquivos do usuario (relatorios, textos, imagens baixadas, prints) e para enviar imagem ou arquivo no chat. |
+| `operacao` | [meus-arquivos](operacao/meus-arquivos/SKILL.md) | Use para guardar, ler, editar ou mostrar arquivos do usuario (relatorios, textos, imagens baixadas, prints) e para enviar imagem ou arquivo no chat. |
+| `operacao` | [criar-fluxo](operacao/criar-fluxo/SKILL.md) | Use quando o usuario pedir para criar, mudar, listar ou apagar um fluxo de trabalho (receita passo a passo), ou quando uma tarefa se repetir e valer virar fluxo. |
 | `operacao` | [ponte-humana](operacao/ponte-humana/SKILL.md) | Use sempre que o Hil pedir algo que outro bot do ecossistema vai executar, incluindo regras ou tarefas novas nos projetos: como a Malfoyd... |
 | `projetos/devotio` | [devotio-decisao-reformada](projetos/devotio/devotio-decisao-reformada/SKILL.md) | Use sempre que for decidir ou propor uma funcionalidade, uma permissão ou um papel no Devotio (quem pode o quê, quem lidera, se algo muda... |
 | `projetos/devotio` | [devotio-valores-nao-changelog](projetos/devotio/devotio-valores-nao-changelog/SKILL.md) | Use ao escrever conteúdo institucional de um produto (ex.: Instagram e página LinkedIn do Devotio) sobre uma mudança ou funcionalidade no... |
@@ -48,3 +49,17 @@ Esta cópia versionada é a referência. Cada skill usada pelos bots aponta para
 
 - Nada de senhas, chaves ou tokens aqui. Só nomes de variáveis de ambiente (`.env`).
 - Mudou uma skill na biblioteca? Atualize o arquivo correspondente aqui no mesmo dia.
+
+## Fluxos de trabalho (`fluxos/`)
+
+Receitas passo a passo para leigos. Cada `.md` tem `titulo`, `quando` e passos numerados, com as skills do passo entre
+parenteses. Instalacao no cerebro: `core/hermes/install_workflows.py` (z-bots). No app aparecem em **Fluxos de
+trabalho**, onde o usuario liga e desliga cada um.
+
+| Fluxo | Quando |
+|---|---|
+| [Preparar as contas de imagem](fluxos/preparar-contas-de-imagem.md) | ensinar a criar conta e deixar logado no Leonardo.AI e no TensorArt |
+| [Gerar imagens](fluxos/gerar-imagens.md) | pedido de imagem, logo, arte ou ilustracao por IA |
+| [Escrever post para redes sociais](fluxos/post-redes-sociais.md) | post ou legenda |
+| [Escrever e-mail profissional](fluxos/email-profissional.md) | e-mail ou mensagem formal |
+| [Resumir e organizar um texto](fluxos/resumir-e-organizar-texto.md) | resumo, topicos, lista de tarefas |
