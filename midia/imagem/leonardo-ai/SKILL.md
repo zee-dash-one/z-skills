@@ -1,51 +1,30 @@
 ---
-name: Leonardo AI
+name: leonardo-ai
 description: >-
-  Use when generating still images on Leonardo.ai in the signed-in box browser
-  (app.leonardo.ai). Not for game sprites.
+  Use ao gerar imagens no Leonardo.ai (app.leonardo.ai) pelo navegador da box com a conta ja logada. Nao serve para sprites de jogo.
 ---
-# Leonardo AI (browser)
+# Leonardo AI: operar o site
 
-Use when generating stills on Leonardo. Only the Image operator generates images.
+Pedidos de prompt: skill `leonardo-ai-prompts`. Upscale, fundo, Canvas e custos: `leonardo-ai-edicao-e-tokens`.
 
-Source inspiration: [calesthio/generative-media-skills leonardo-image](https://github.com/calesthio/generative-media-skills) and the Leonardo web app. Prefer the signed-in browser session at https://app.leonardo.ai/generate — there is no official Leonardo connector in the Cursor catalog for this account.
+## Antes
+- Resumo do pedido: assunto, estilo, proporcao, quantidade (padrao **1**), texto na imagem, o que evitar. Sem retrato de pessoa real.
+- Gastar token so com pedido claro. Mais de 1 imagem, modelo premium ou varias tentativas: avise o custo e espere o "sim" (a menos que o Hil ja tenha autorizado a rodada).
 
-## Before generating
+## Fluxo
+1. Use a aba atual: `https://app.leonardo.ai/generate`. Nao abra aba nova.
+2. Tela de login ou sessao caiu: use o cofre de senhas; sem senha cadastrada, pare e avise o Hil para entrar pela tela. Nunca peca nem escreva senha.
+3. Leia a pagina em **texto** (snapshot), nao em imagem. Ache os controles pelo rotulo que aparece na tela (modelo, proporcao, quantidade, estilo, campo do prompt, botao Generate).
+4. Configure um controle por vez: modelo (o padrao, salvo pedido), proporcao, quantidade 1, prompt. Confira no texto da pagina que ficou certo.
+5. O custo em tokens aparece no botao de gerar: leia antes de clicar. Se estiver acima do combinado, pare e avise.
+6. Gere e espere (de 10 a 60 s). Confira de 5 em 5 s no texto da pagina; sem resultado em 2 min, avise.
+7. Entregue: prompt usado, modelo, proporcao, tokens gastos e saldo (visivel no canto inferior esquerdo da home). Salvar o arquivo so se tiver terminal ou arquivos; senao diga que a imagem esta na biblioteca da conta e passe o endereco da pagina.
 
-Lock a short brief:
-
-- Subject, setting, style, composition
-- Aspect ratio / size (1:1, 16:9, 2:3, custom)
-- Count (default 1 on free plan)
-- Text on image, if any
-- What to avoid
-
-No real-person portraits. Default to one private preview. If tokens look low, say so before spending more.
-
-## Browser flow
-
-1. Open https://app.leonardo.ai/generate (or `/generate?model=auto-preset`).
-2. If Sign In appears, stop and hand the box to the user for auth.
-3. Set Image tab, model (Auto unless the user named one), style, aspect, count.
-4. Paste the English-leaning prompt (keep a Portuguese summary for the user if they write in pt-BR).
-5. Generate, wait for results, download the best frame to `/workspace/` with a clear name.
-6. Report file path, prompt used, model/style/size, and remaining tokens if visible.
-
-Do not invent click paths. If the UI changed, stop and report.
-
-## Style tips on Leonardo
-
-- General marketing / dynamic stills: Style Dynamic or Cinematic + Auto model
-- Anime / manga: pick an anime-oriented model or style if listed; put line quality and eyes in the prompt
-- Realistic photo: photoreal / cinematic keywords; avoid cartoon tags
-- Comics / HQ: ink outlines, panel-ready framing, flat or cel shading in the prompt
-- Kids / infantil: soft shapes, bright pastel palette, simple backgrounds
-
-For game sprites, do **not** use Leonardo — use SpriteCook.
-
-## Deliver
-
-File under `/workspace/` plus prompt and settings. Offer one revision pass if the user asks.
+## Regras
+- A tela mudou ou nao acha o controle: pare e descreva o que ve. Nao invente cliques.
+- Prompt bloqueado pela moderacao: reescreva uma vez de forma legitima ou avise o Hil. Nunca tente burlar filtro.
+- Captcha, verificacao de duas etapas ou aviso de uso suspeito: pare e chame o Hil. Se o Hil assumiu a tela, espere o "terminei".
+- Termine com uma aba aberta.
 
 ---
 
