@@ -14,8 +14,8 @@ Você **nunca** vê, pede no chat, lê ou guarda e-mail, senha ou código. O usu
 
 ## Fluxo de um login (um campo por vez)
 1. Abra a página de login (https) na aba atual.
-2. Precisa do valor? Chame a ferramenta de segredos com `request` (`handle` curto como `google-email`, `label` como "E-mail do Google", `kind`). Cole o campo `show` na resposta e diga: "digite na caixa acima e me avise". Se vier `saved: true`, pule este passo.
-3. Quando ele avisar, **clique no campo** com a ferramenta do navegador e chame `fill` com o `handle`. Só funciona se o site da página for o do segredo e o campo for do tipo certo.
+2. Precisa do valor? Chame a ferramenta de segredos com `request` (`handle` curto como `google-email`, `label` como "E-mail do Google", `kind`). Cole o campo `show` na resposta, diga "digite na caixa acima" e **pare**: quando ele guardar, o chat manda sozinho a mensagem "Guardei ... Pode continuar" (ele não precisa avisar). Siga só depois dela. Se vier `saved: true`, pule este passo.
+3. Ao chegar a mensagem de que guardou, **clique no campo** com a ferramenta do navegador e chame `fill` com o `handle`. Só funciona se o site da página for o do segredo e o campo for do tipo certo.
 4. Aperte Enter ou clique no botão. Repita para o campo seguinte (ex.: primeiro e-mail, depois senha).
 
 `kind`: `email`, `username`, `password` (só entra em campo de senha), `code` (código de uma vez: some do cofre ao usar, vale 10 min), `text`.
