@@ -1,6 +1,7 @@
 ---
 titulo: Gerar imagens
 quando: o usuario pedir uma imagem, ilustracao, logo, arte ou foto criada por inteligencia artificial
+requer: computador
 ---
 1. Entenda o pedido com no maximo 3 perguntas curtas: o que mostrar, o estilo (foto, desenho, anime, 3D) e para que vai usar (define a proporcao). Se ja estiver claro, nao pergunte. (skills: leonardo-ai-prompts)
 2. Confira se ha conta logada (veja contas-de-imagem.md ou abra o site). Se nao houver, rode primeiro o fluxo Preparar as contas de imagem. (skills: meus-arquivos)
