@@ -41,6 +41,7 @@ Esta cópia versionada é a referência. Cada skill usada pelos bots aponta para
 | `operacao` | [opencode-notificacoes](operacao/opencode-notificacoes/SKILL.md) | Use quando for preciso avisar o Hil de algo muito importante ou registrar que uma tarefa de cron foi executada. Ensina o sistema central ... |
 | `operacao` | [meus-arquivos](operacao/meus-arquivos/SKILL.md) | Use para guardar, ler, editar ou mostrar arquivos do usuario (relatorios, textos, imagens baixadas, prints) e para enviar imagem ou arquivo no chat. |
 | `operacao` | [criar-fluxo](operacao/criar-fluxo/SKILL.md) | Use quando o usuario pedir para criar, mudar, listar ou apagar um fluxo de trabalho (receita passo a passo), ou quando uma tarefa se repetir e valer virar fluxo. |
+| `operacao` | [senhas-no-cofre](operacao/senhas-no-cofre/SKILL.md) | Use para entrar em sites com e-mail, usuario, senha ou codigo 2FA do usuario sem ver nem pedir esses valores: caixa de texto no chat, cofre e digitacao direta no campo. |
 | `operacao` | [ponte-humana](operacao/ponte-humana/SKILL.md) | Use sempre que o Hil pedir algo que outro bot do ecossistema vai executar, incluindo regras ou tarefas novas nos projetos: como a Malfoyd... |
 | `projetos/devotio` | [devotio-decisao-reformada](projetos/devotio/devotio-decisao-reformada/SKILL.md) | Use sempre que for decidir ou propor uma funcionalidade, uma permissão ou um papel no Devotio (quem pode o quê, quem lidera, se algo muda... |
 | `projetos/devotio` | [devotio-valores-nao-changelog](projetos/devotio/devotio-valores-nao-changelog/SKILL.md) | Use ao escrever conteúdo institucional de um produto (ex.: Instagram e página LinkedIn do Devotio) sobre uma mudança ou funcionalidade no... |
@@ -63,3 +64,4 @@ trabalho**, onde o usuario liga e desliga cada um.
 | [Escrever post para redes sociais](fluxos/post-redes-sociais.md) | post ou legenda |
 | [Escrever e-mail profissional](fluxos/email-profissional.md) | e-mail ou mensagem formal |
 | [Resumir e organizar um texto](fluxos/resumir-e-organizar-texto.md) | resumo, topicos, lista de tarefas |
+| [Entrar numa conta Google](fluxos/entrar-no-google.md) | login no Google com e-mail e senha pelo cofre (sem o bot ver) |
