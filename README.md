@@ -4,6 +4,8 @@ Biblioteca de skills do ecossistema de bots do Hil (Z-ONE). Cada pasta tem um `S
 
 Esta cópia versionada é a referência. Cada skill usada pelos bots aponta para o arquivo correspondente aqui.
 
+**Como chegam aos bots.** Para os cérebros do CUBU (o Six, depois o da esposa), `z-server-01/scripts/cubu-chat-bot/cubu-brain-extras.py <container> [--box]` copia as skills e instala os fluxos (`fluxos/`). Esse script recusa as MALICEs; as skills do navegador das MALICEs vêm de `z-server-01/scripts/hermes/box-tools/skills/`. **Regras para escrever skills e fluxos:** curtas e só com o que o bot precisa; nomes e textos **sem o prefixo `cubu-`** (o filtro de saída do Thalamus os troca por "[detalhe interno omitido]"); assunto de ferramenta ou site fica só como skill, nunca no `SOUL.md`; nunca coloque senha, chave ou dado pessoal; a descrição (`description`) é o que faz o bot chamar a skill.
+
 ## Estrutura
 
 | Categoria | Skill | Para que serve |
