@@ -4,7 +4,7 @@ Biblioteca de skills do ecossistema de bots do Hil (Z-ONE). Cada pasta tem um `S
 
 Esta cópia versionada é a referência. Cada skill usada pelos bots aponta para o arquivo correspondente aqui.
 
-**Como chegam aos bots.** Para os cérebros do CUBU (o Six, depois o da esposa), `z-server-01/scripts/cubu-chat-bot/cubu-brain-extras.py <container> [--box]` copia as skills e instala os fluxos (`fluxos/`). Esse script recusa as MALICEs; as skills do navegador das MALICEs vêm de `z-server-01/scripts/hermes/box-tools/skills/`. **Regras para escrever skills e fluxos:** curtas e só com o que o bot precisa; nomes e textos **sem o prefixo `cubu-`** (o filtro de saída do Thalamus os troca por "[detalhe interno omitido]"); assunto de ferramenta ou site fica só como skill, nunca no `SOUL.md`; nunca coloque senha, chave ou dado pessoal; a descrição (`description`) é o que faz o bot chamar a skill.
+**Como chegam aos bots.** Para os cérebros do CUBU (o Six, depois o da esposa), `z-server-01/scripts/cubu-chat-bot/cubu-brain-extras.py <container> [--box]` copia as skills, instala os fluxos (`fluxos/`) e **desliga as skills padrão do Hermes que mandam rodar comandos** (lista `NEEDS_TERMINAL`: o cérebro do CUBU não tem terminal; ex.: `google-workspace`). Esse script recusa as MALICEs; as skills do navegador das MALICEs vêm de `z-server-01/scripts/hermes/box-tools/skills/`. **Regras para escrever skills e fluxos:** curtas e só com o que o bot precisa; nomes e textos **sem o prefixo `cubu-`** (o filtro de saída do Thalamus os troca por "[detalhe interno omitido]"); assunto de ferramenta ou site fica só como skill, nunca no `SOUL.md`; nunca coloque senha, chave ou dado pessoal; a descrição (`description`) é o que faz o bot chamar a skill.
 
 ## Estrutura
 
@@ -67,3 +67,5 @@ trabalho**, onde o usuario liga e desliga cada um.
 | [Escrever e-mail profissional](fluxos/email-profissional.md) | e-mail ou mensagem formal |
 | [Resumir e organizar um texto](fluxos/resumir-e-organizar-texto.md) | resumo, topicos, lista de tarefas |
 | [Entrar numa conta Google](fluxos/entrar-no-google.md) | login no Google com e-mail e senha pelo cofre (sem o bot ver) |
+| [Ler e resumir meus e-mails (Gmail)](fluxos/gmail.md) | ver, procurar, resumir ou responder e-mails pelo navegador do Computador; so le por padrao e pede confirmacao antes de enviar ou apagar |
+| [Ver e organizar minha agenda (Google Agenda)](fluxos/google-agenda.md) | agenda, compromissos, horarios livres; criar ou mudar so com confirmacao, sem convidados |
